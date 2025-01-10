@@ -1,0 +1,7 @@
+﻿  Building 'KbdDriver' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  KbdDriver.vcxproj -> C:\Users\User\source\repos\KbdDriver\x64\Debug\KbdDriver.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\User\source\repos\KbdDriver\x64\Debug\KbdDriver.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
